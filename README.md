@@ -1,6 +1,7 @@
 # JAX Tutorial
 
 This repository contains a Jupyter notebook that provides a step-by-step introduction to JAX - a high-performance numerical computing library from Google Research.
+It is meant for researchers/practitioners that are already familiar with deep learning in another environment, most likely PyTorch
 
 ## Contents
 
@@ -13,6 +14,9 @@ This repository contains a Jupyter notebook that provides a step-by-step introdu
   - Random numbers
   - Introduction to flax
   - Recurrent nets with scan
+
+- `01_meta_learning_maml.ipynb`
+  - Basic MAML implementation
 
 ## Getting Started
 
