@@ -15,8 +15,9 @@ It is meant for researchers/practitioners that are already familiar with deep le
   - Introduction to flax
   - Recurrent nets with scan
 
-- `01_meta_learning_maml.ipynb`
-  - Basic MAML implementation
+- `01_meta_learning_maml.ipynb` Meta learning with MAML, implementation sketch
+
+- `02_meta_learning_hypernet.ipynb` Meta learning with Hypernets, implementation sketch
 
 ## Getting Started
 
