@@ -1,11 +1,12 @@
 # JAX Tutorial
 
 This repository contains a Jupyter notebook that provides a step-by-step introduction to JAX - a high-performance numerical computing library from Google Research.
-It is meant for researchers/practitioners that are already familiar with deep learning in another environment, most likely PyTorch
+
+It is meant for researchers/practitioners that are already familiar with deep learning in another environment, most likely PyTorch, and thus do not want to waste too much time with the very basics.
 
 ## Contents
 
-- `00_from_zero_to_noob.ipynb`: A beginner-level tutorial notebook that introduces JAX fundamentals, covering:
+- `00_from_zero_to_noob.ipynb`: An introductory tutorial notebook that covers the basics:
   - Numpy-style array operations
   - Automatic differentiation and optimization
   - Parallel execution with vmap
