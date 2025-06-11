@@ -22,7 +22,7 @@ It is meant for practitioners that are already familiar with numpy and PyTorch.
 
 ## Gallery
 
-Worked out examples are available in the [gallery](gallery) folder
+Worked out examples are available in the [gallery](gallery) folder.
 
 ## Getting Started
 
