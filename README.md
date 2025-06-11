@@ -4,7 +4,7 @@ This repository provides an introduction to JAX, a high-performance numerical co
 
 It is meant for practitioners that are already familiar with numpy and PyTorch. 
 
-## Contents
+## Tutorials
 
 - `00_from_zero_to_noob.ipynb`: An introductory tutorial notebook that covers the essentials:
   - Numpy-style array operations
@@ -19,6 +19,10 @@ It is meant for practitioners that are already familiar with numpy and PyTorch.
 - `01_meta_learning_maml.ipynb` Meta learning with MAML, implementation sketch
 
 - `02_meta_learning_hypernet.ipynb` Meta learning with Hypernets, implementation sketch
+
+## Gallery
+
+Worked out examples are available in the [gallery](gallery) folder
 
 ## Getting Started
 
